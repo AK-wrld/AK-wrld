@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
+- ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
+
 - 📫 How to reach me **apurbakoley43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
