@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-wrld&label=Profile%20views&color=0e75b6&style=flat" alt="ak-wrld" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **open source**
 
